@@ -1,5 +1,8 @@
 # Pac-Snake Snake-Man
 
+## Repository
+[<Link to your project's public GitHub respository>](https://github.com/TaroMilk-Tea/Pac-Man-Snake-Combo/edit/main/README.md)
+
 ## Description
 - My idea comes from two simple, semi-frequent first game design ideas and combines them together into one.
 - A combination of Snake and Pac-Man that utilizes both concepts to create an original idea.
